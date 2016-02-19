@@ -8,7 +8,7 @@ int main()
 	{
 		if (i % 3 == 0 && i % 5 == 0)
 		{
-			cout << "Woof" << endl;
+			cout << "FizzBuzz" << endl;
 		}
 		else if (i % 3 == 0)
 		{
